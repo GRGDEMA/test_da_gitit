@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns3:FileMetadati xmlns:ns2="http://www.w3.org/2000/09/xmldsig#" xmlns:ns3="http://ivaservizi.agenziaentrate.gov.it/docs/xsd/fattura/messaggi/v1.0" versione="1.0">
+    <IdentificativoSdI>117550050</IdentificativoSdI>
+    <NomeFile>ITBTTRFL59M15A443S_000KE.xml</NomeFile>
+    <Hash>eef70e90d415713d91d021165db09f2af93ee017e4901f5aab4c263d056aee40</Hash>
+    <CodiceDestinatario>0000000</CodiceDestinatario>
+    <Formato>FPR12</Formato>
+    <TentativiInvio>1</TentativiInvio>
+    <MessageId>977754245</MessageId>
+</ns3:FileMetadati>
+

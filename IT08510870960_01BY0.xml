@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><ns0:FatturaElettronica xmlns:ns0="http://ivaservizi.agenziaentrate.gov.it/docs/xsd/fatture/v1.2" versione="FPR12">
+<FatturaElettronicaHeader>
+<DatiTrasmissione>
+<IdTrasmittente><IdPaese>IT</IdPaese><IdCodice>05006900962</IdCodice></IdTrasmittente>
+<ProgressivoInvio>1800293403</ProgressivoInvio>
+<FormatoTrasmissione>FPR12</FormatoTrasmissione>
+<CodiceDestinatario>0000000</CodiceDestinatario>
+<PECDestinatario>4242039@PEC.IT</PECDestinatario>
+</DatiTrasmissione>
+<CedentePrestatore>
+<DatiAnagrafici>
+<IdFiscaleIVA><IdPaese>IT</IdPaese><IdCodice>08510870960</IdCodice></IdFiscaleIVA>
+<CodiceFiscale>08510870960</CodiceFiscale>
+<Anagrafica><Denominazione>WEX Europe Services SRL</Denominazione></Anagrafica>
+<RegimeFiscale>RF01</RegimeFiscale>
+</DatiAnagrafici>
+<Sede><Indirizzo>Via Carlo Veneziani, 58</Indirizzo><CAP>00148</CAP><Comune>Roma</Comune><Provincia>RM</Provincia><Nazione>IT</Nazione></Sede>
+</CedentePrestatore>
+<CessionarioCommittente>
+<DatiAnagrafici>
+<IdFiscaleIVA><IdPaese>IT</IdPaese><IdCodice>01801330224</IdCodice></IdFiscaleIVA>
+<Anagrafica><Denominazione>TOMELIN ANDREA</Denominazione></Anagrafica>
+</DatiAnagrafici>
+<Sede><Indirizzo>VIA DEGLI ALPINI 24 - RONCOGNO</Indirizzo><CAP>38057</CAP><Comune>PERGINE VALSUGANA   TN</Comune><Nazione>IT</Nazione></Sede>
+</CessionarioCommittente>
+</FatturaElettronicaHeader>
+<FatturaElettronicaBody>
+<DatiGenerali>
+<DatiGeneraliDocumento>
+<TipoDocumento>TD01</TipoDocumento>
+<Divisa>EUR</Divisa>
+<Data>2018-08-22</Data>
+<Numero>00293403</Numero>
+<ImportoTotaleDocumento>153.48</ImportoTotaleDocumento>
+</DatiGeneraliDocumento>
+<DatiOrdineAcquisto>
+<IdDocumento>00293403</IdDocumento>
+<Data>2018-08-22</Data>
+</DatiOrdineAcquisto>
+</DatiGenerali>
+<DatiBeniServizi>
+<DettaglioLinee>
+<NumeroLinea>0001</NumeroLinea>
+<CodiceArticolo><CodiceTipo>CARB</CodiceTipo><CodiceValore>27101943</CodiceValore></CodiceArticolo>
+<Descrizione>gasolio autotrazion  in data 14.08.18 con carta 7033161200197910016-DJ264ZK         scontrino N.002056 c/o 105380 PERGINE</Descrizione>
+<Quantita>51.42</Quantita>
+<UnitaMisura>LT</UnitaMisura>
+<PrezzoUnitario>1.2165</PrezzoUnitario>
+<PrezzoTotale>62.55</PrezzoTotale>
+<AliquotaIVA>22.00</AliquotaIVA>
+</DettaglioLinee>
+<DettaglioLinee>
+<NumeroLinea>0002</NumeroLinea>
+<CodiceArticolo><CodiceTipo>CARB</CodiceTipo><CodiceValore>27101943</CodiceValore></CodiceArticolo>
+<Descrizione>gasolio autotrazion  in data 19.08.18 con carta 7033161200197910016-DJ264ZK         scontrino N.002113 c/o 105380 PERGINE</Descrizione>
+<Quantita>46.49</Quantita>
+<UnitaMisura>LT</UnitaMisura>
+<PrezzoUnitario>1.2166</PrezzoUnitario>
+<PrezzoTotale>56.56</PrezzoTotale>
+<AliquotaIVA>22.00</AliquotaIVA>
+</DettaglioLinee>
+<DettaglioLinee>
+<NumeroLinea>0003</NumeroLinea>
+<TipoCessionePrestazione>AC</TipoCessionePrestazione>
+<Descrizione>commissioni  con carta 7033161200197910016-DJ264ZK</Descrizione>
+<PrezzoUnitario>1.19</PrezzoUnitario>
+<PrezzoTotale>1.19</PrezzoTotale>
+<AliquotaIVA>22.00</AliquotaIVA>
+</DettaglioLinee>
+<DettaglioLinee>
+<NumeroLinea>0004</NumeroLinea>
+<TipoCessionePrestazione>AC</TipoCessionePrestazione>
+<Descrizione>Costo fattura </Descrizione>
+<PrezzoUnitario>5.50</PrezzoUnitario>
+<PrezzoTotale>5.50</PrezzoTotale>
+<AliquotaIVA>22.00</AliquotaIVA>
+</DettaglioLinee>
+<DatiRiepilogo>
+<AliquotaIVA>22.00</AliquotaIVA>
+<ImponibileImporto>125.80</ImponibileImporto>
+<Imposta>27.68</Imposta>
+<EsigibilitaIVA>I</EsigibilitaIVA>
+</DatiRiepilogo>
+</DatiBeniServizi>
+<DatiPagamento>
+<CondizioniPagamento>TP02</CondizioniPagamento>
+<DettaglioPagamento>
+<ModalitaPagamento>MP21</ModalitaPagamento>
+<DataScadenzaPagamento>2018-10-01</DataScadenzaPagamento>
+<ImportoPagamento>153.48</ImportoPagamento>
+<IstitutoFinanziario>Bank of America</IstitutoFinanziario>
+<IBAN>IT91V0338001600000014421013</IBAN>
+<BIC>BOFAIT2X</BIC>
+<ScontoPagamentoAnticipato>0.00</ScontoPagamentoAnticipato>
+<PenalitaPagamentiRitardati>0.00</PenalitaPagamentiRitardati>
+</DettaglioPagamento>
+</DatiPagamento>
+</FatturaElettronicaBody>
+</ns0:FatturaElettronica>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns4:NotificaEsitoCommittente versione="1.0" xmlns:ns2="http://www.w3.org/2000/09/xmldsig#" xmlns:ns4="http://www.fatturapa.gov.it/sdi/messaggi/v1.0" xmlns:ns3="http://www.fatturapa.it/sdi/ftp/v1.0" xmlns:ns5="http://www.fatturapa.gov.it/sdi/fatturapa/v1.1">
+    <IdentificativoSdI>108028724</IdentificativoSdI>
+    <Esito>EC01</Esito>
+</ns4:NotificaEsitoCommittente>
